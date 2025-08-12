@@ -1,0 +1,8 @@
+{
+  "name": "tbc-vercel-functions",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Vercel Functions for The Boring Company project",
+  "license": "MIT",
+  "dependencies": {}
+}
